@@ -1,3 +1,6 @@
+// This is the Javascript file responsible for the pause and play button
+
+
 const btn = document.querySelector(".switch-btn");
 const video = document.querySelector(".video-container");
 
